@@ -6,12 +6,11 @@ Graduate from Universidad de Guadalajara
 I started my career in 2017 and finished in 2020, I love programming, artificial intelligence, machine learning, deep learning.
 
 Skills:
+
 [![Linux](https://img.shields.io/badge/Linux-ebbb08?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
 [![Windows](https://img.shields.io/badge/Windows-2c7fd3?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)]()
 </br>
-[![Eclipse](https://img.shields.io/badge/Eclipse-2d1c68?style=for-the-badge&logo=eclipse&logoColor=white&labelColor=101010)]()
 [![VisualStudio](https://img.shields.io/badge/Visual_Studio-0076c6?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=101010)]()
-[![PyCharm](https://img.shields.io/badge/Pycharm-20d088?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=101010)]()
 </br>
 [![C++](https://img.shields.io/badge/C++-6295cb?style=for-the-badge&logo=C%2B%2B&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-f7cc42?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
@@ -29,6 +28,7 @@ Skills:
 [![Firebase](https://img.shields.io/badge/Firebase-f5820d?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-5faf47?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+
 </br>
 And more...
 
@@ -44,4 +44,15 @@ And more...
 ## Contact me:
 
 [![Email](https://img.shields.io/badge/brian.alex9902@gmail.com-my_personal_email-e34033?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:brian.alex9902@gmail.com)
+</br>
+
+
+### White Fox Studios 
+<img src="https://github.com/poenix111/poenix111/blob/main/logo.png" width='70px'/>
+<p> 
+  White Fox Studios is a small project where I post my progress. 
+  Using this name I deploy my own projects.
+</p>
+
+[![Instagram](https://img.shields.io/badge/Instagram-@white.fox.studios-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/white.fox.studios/)
 </br>
