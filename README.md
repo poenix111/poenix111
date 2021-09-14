@@ -36,7 +36,7 @@ And more...
 
 [![Instagram](https://img.shields.io/badge/Instagram-@brian.munoz.906-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/brian.munoz.906/)
 </br>
-[![Facebook](https://img.shields.io/badge/Facebook-@Brian%20Mu%C3%B1oz-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010](https://www.facebook.com/brian.munoz.906/)
+[![Facebook](https://img.shields.io/badge/Facebook-@Brian%20Mu%C3%B1oz-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/brian.munoz.906/)
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brian%20Alejandro%20Muñoz%20Marin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/brian-mu%C3%B1oz1/)
 </br>
