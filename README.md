@@ -31,7 +31,7 @@ Skills:
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
 ### Top langs
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=poenix111&theme=blue-green)]()
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=poenix111&theme=blue-green&layout=compact)]()
 
 </br>
 And more...
