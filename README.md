@@ -14,6 +14,7 @@ Skills:
 </br>
 [![C++](https://img.shields.io/badge/C++-6295cb?style=for-the-badge&logo=C%2B%2B&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-f7cc42?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
 [![Java](https://img.shields.io/badge/Java-a21000?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![HTML](https://img.shields.io/badge/HTML-e96227?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)]()
@@ -28,6 +29,9 @@ Skills:
 [![Firebase](https://img.shields.io/badge/Firebase-f5820d?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-5faf47?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+
+### Top lags
+https://github-readme-stats.vercel.app/api/top-langs/?username=poenix111&theme=blue-green
 
 </br>
 And more...
