@@ -3,7 +3,7 @@
 Graduate from Universidad de Guadalajara
 
 
-I started my career in 2017 and finished in 2020, I love programming, artificial intelligence, machine learning, deep learning.
+I love programming, artificial intelligence, machine learning, deep learning.
 
 Skills:
 
