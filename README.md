@@ -5,40 +5,25 @@ Graduate from Universidad de Guadalajara
 
 I love programming, artificial intelligence, machine learning, deep learning.
 
-Skills:
-
+# Skills:
 [![Linux](https://img.shields.io/badge/Linux-ebbb08?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
 [![Windows](https://img.shields.io/badge/Windows-2c7fd3?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)]()
-
-
 [![VisualStudio](https://img.shields.io/badge/Visual_Studio-0076c6?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=101010)]()
-
-
 [![C++](https://img.shields.io/badge/C++-6295cb?style=for-the-badge&logo=C%2B%2B&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-f7cc42?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-a21000?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-
-
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![HTML](https://img.shields.io/badge/HTML-e96227?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-036db6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
-
-
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-533b78?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
 [![JSON](https://img.shields.io/badge/JSON-797979?style=for-the-badge&logo=json&logoColor=white&labelColor=101010)]()
-
 [![Firebase](https://img.shields.io/badge/Firebase-f5820d?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-
-
 [![Node.JS](https://img.shields.io/badge/Node.JS-5faf47?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)]()
 [![Angular](https://img.shields.io/badge/Angular-bd002e?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
-
-
 [![Ionic](https://img.shields.io/badge/Ionic-4886f1?style=for-the-badge&logo=ionic&logoColor=white&labelColor=101010)]()
 [![Flutter](https://img.shields.io/badge/Flutter-60bde6?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)]()
-
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
@@ -49,7 +34,6 @@ Skills:
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-
 
 ### Top langs
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=poenix111&theme=blue-green&layout=compact&langs_count=10)]()
