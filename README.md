@@ -35,6 +35,8 @@ I love programming, artificial intelligence, machine learning, deep learning.
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
+Find me @ [Kaggle](https://www.kaggle.com/oklats)
+
 ### Top langs
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=poenix111&theme=blue-green&layout=compact&langs_count=10)]()
 
