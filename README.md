@@ -57,13 +57,3 @@ And more...
 [![Email](https://img.shields.io/badge/brian.alex9902@gmail.com-my_personal_email-e34033?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:brian.alex9902@gmail.com)
 </br>
 
-
-### White Fox Studios 
-<img src="https://github.com/poenix111/poenix111/blob/main/logo.png" width='70px'/>
-<p> 
-  White Fox Studios is a small project where I post my progress. 
-  Using this name I deploy my own projects.
-</p>
-
-[![Instagram](https://img.shields.io/badge/Instagram-@white.fox.studios-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/white.fox.studios/)
-</br>
