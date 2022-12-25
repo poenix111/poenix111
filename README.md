@@ -3,7 +3,7 @@
 Graduate from Universidad de Guadalajara
 
 
-I love programming, artificial intelligence, machine learning, deep learning.
+I am a fullstack programmer with a strong interest in artificial intelligence and programming. I have a diverse skillset and am proficient in a variety of programming languages and technologies. I enjoy tackling complex challenges and building sophisticated systems. As a fullstack programmer, I have the ability to work on both the front-end and back-end of a project and am able to develop a complete application from start to finish.
 
 # Skills:
 [![Linux](https://img.shields.io/badge/Linux-ebbb08?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
