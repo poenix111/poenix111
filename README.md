@@ -40,6 +40,7 @@ Find me @ [Kaggle](https://www.kaggle.com/oklats)
 ### Top langs
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=poenix111&theme=blue-green&layout=compact&langs_count=10)]()
 
+<a href="https://stackexchange.com/users/11090674/poenix111"><img src="https://stackexchange.com/users/flair/11090674.png" width="208" height="58" alt="profile for Poenix111 on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Poenix111 on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 </br>
 And more...
 
