@@ -44,7 +44,7 @@ Find me @ [Kaggle](https://www.kaggle.com/oklats)
 And more...
 
 ## Find me at:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brian%20Alejandro%20Muñoz%20Marin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/munoz-brian/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brian%20Muñoz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/munoz-brian/)
 </br>
 
 
